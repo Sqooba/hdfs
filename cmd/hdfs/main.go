@@ -8,8 +8,8 @@ import (
 	"os/user"
 	"time"
 
-	"github.com/colinmarc/hdfs/v2"
-	"github.com/colinmarc/hdfs/v2/hadoopconf"
+	"github.com/Sqooba/hdfs"
+	"github.com/Sqooba/hdfs/hadoopconf"
 	"github.com/pborman/getopt"
 )
 

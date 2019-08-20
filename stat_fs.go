@@ -1,7 +1,7 @@
 package hdfs
 
 import (
-	hdfs "github.com/colinmarc/hdfs/v2/internal/protocol/hadoop_hdfs"
+	hdfs "github.com/Sqooba/hdfs/internal/protocol/hadoop_hdfs"
 )
 
 // FsInfo provides information about HDFS
